@@ -1,0 +1,54 @@
+body {
+    background-color: #000000;
+    text-align: center;
+    margin: 4% 4%;
+    color: white;
+}
+
+#demo {
+    font-size: 4rem;
+    font-family: 'DynaPuff', cursive;
+}
+
+#calendar {
+    display: inline-block;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 6% 3% 0 0;
+  }
+
+  td, th {
+    border: 1px solid white;
+    padding: 3px;
+    text-align: center;
+  }
+
+  th {
+    font-weight: bold;
+    background-color: #000000;
+  }
+
+#domo {
+    font-size: 4rem;
+    border: 2px solid;
+    border-radius: 20px;
+    margin: 6%;
+}
+
+.fa-brands {
+    margin-left: 20px;
+}
+
+.fa-github {
+    color: #FFFDE3;
+}
+
+.fa-facebook-f {
+    color: #4267B2;
+}
+
+.fa-instagram {
+    color: #FD1D1D;
+}
